@@ -1,0 +1,9 @@
+newmtl flaghangingpack1:fh1_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd fh1_14_d.tga
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 32.00

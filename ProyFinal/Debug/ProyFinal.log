@@ -1,0 +1,38 @@
+﻿  Main_prac11.cpp
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(311,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(313,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(319,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(321,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(328,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(330,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(336,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(338,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(424,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(878,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(888,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(909,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(919,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(939,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(949,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(971,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(972,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(984,17): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(985,16): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(986,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(987,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(997,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(998,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(999,17): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1000,16): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1113,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1114,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1118,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1119,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1121,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\ProyFinal\Main_prac11.cpp(1122,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at 'C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\Debug\soil2-debug.pdb'; linking object as if no debug info
+  ProyFinal.vcxproj -> C:\Users\moren\Desktop\UNAM\9no Semestre\CompuGrafica\ProyFinal\Debug\ProyFinal.exe
